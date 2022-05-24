@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <ul><u> Règles du zoo</u></ul>
+  <li> Ne pas nourrir les animaux
+  <li> Ne pas taper aux vitres
+  <li> Enlever le flash des appareils photo
+  </li>
+  <br>
+  <ul><u> Animaux présents au zoo:</u></ul>
+  <table>
+    <thead>
+      <tr>
+        <th>Carnivore |</th>
+        <th>Herbivores</th>
+      </tr>
+      </thead>
+    <tr>
+      <td>Lion </td>
+      <td>Girafe, Koala, Panda</td>
+    </tr>
+    
+</body>
+    </html>
